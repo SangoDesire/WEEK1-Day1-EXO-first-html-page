@@ -1,0 +1,47 @@
+#catsenses {
+    text-decoration: underline;
+}
+
+#media {
+    padding-left: 250px;
+}
+
+#media>h2 {
+    text-align: center;
+    margin-left: -230px;
+}
+
+img {
+    display: block;
+    width: 700px;
+    height: 350px;
+}
+
+#between {
+    border: 2px solid red;
+    text-align: center;
+    color: red;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#lastlion {
+    padding: 100px;
+    padding-left: 250px;
+    padding-right: 200px;
+}
+
+#img {
+    border: 2px solid;
+    border: 3px solid rgb(138, 6, 6);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+#seventy {
+    background-color: yellow;
+}
